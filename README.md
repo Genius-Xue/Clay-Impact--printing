@@ -1,4 +1,4 @@
-# Impact-printing
+# Clay-printing (Impact-printing)
 
 This assignment aims to develop novel methods and techniques for the aggregation of soil-based material through a fast remote deposition process in order to build non-standard and sustainable architectural structures with an autonomous excavator.
 
@@ -10,3 +10,5 @@ Since this topic is still an on-going phd's thesis which hasen't been published 
 
 So here all the codes and images are about clay printing which can demonstrate impact printing technique to certain extent.
 
+![e12047db72b7d2348cbc4e092c294a9](https://user-images.githubusercontent.com/62844243/226305721-a160d775-a570-4a80-bd9b-007cd10b5bad.jpg)
+![b9a4bb5357ce125a6f26b2289b24bb4](https://user-images.githubusercontent.com/62844243/226305891-64756630-ab42-47f7-a826-e2e8955ca7be.jpg)
